@@ -342,11 +342,7 @@
             <div class="news-body">
               <span class="muted">MPLS — 2024</span>
               <h3 style="margin:8px 0">MPLS 2024 — Angkatan ke 2</h3>
-              <p class="muted">MPLS Angkatan ke-2 TKJ menjadi langkah pertama bagi para siswa baru untuk mengenal dunia jaringan komputer lebih dekat. Selama kegiatan berlangsung, mereka diperkenalkan dengan lingkungan sekolah, laboratorium TKJ, serta perangkat-perangkat yang akan menjadi bagian dari pembelajaran mereka.
-
-Melalui sesi pengenalan jurusan, siswa mendapatkan gambaran tentang apa saja yang dipelajari di TKJ—mulai dari dasar jaringan, pengkabelan, konfigurasi perangkat, hingga peluang karier di bidang IT. Berbagai kegiatan kelompok, permainan, dan motivasi dari guru serta kakak kelas membuat suasana MPLS semakin seru dan penuh semangat.
-
-MPLS ini bukan hanya tentang mengenal sekolah, tetapi juga membangun mental, disiplin, dan rasa kebersamaan. Dengan berakhirnya kegiatan, para siswa resmi menjadi bagian dari keluarga besar TKJ dan siap memulai perjalanan menuju dunia teknologi yang penuh peluang.</p>
+              <p class="muted">MPLS Angkatan ke-2 TKJ menjadi langkah pertama bagi para siswa baru untuk mengenal dunia jaringan komputer lebih dekat. Selama kegiatan berlangsung, mereka diperkenalkan dengan lingkungan sekolah, laboratorium TKJ, serta perangkat-perangkat yang akan menjadi bagian dari pembelajaran mereka. Melalui sesi pengenalan jurusan, siswa mendapatkan gambaran tentang apa saja yang dipelajari di TKJ—mulai dari dasar jaringan, pengkabelan, konfigurasi perangkat, hingga peluang karier di bidang IT. Berbagai kegiatan kelompok, permainan, dan motivasi dari guru serta kakak kelas membuat suasana MPLS semakin seru dan penuh semangat. MPLS ini bukan hanya tentang mengenal sekolah, tetapi juga membangun mental, disiplin, dan rasa kebersamaan. Dengan berakhirnya kegiatan, para siswa resmi menjadi bagian dari keluarga besar TKJ dan siap memulai perjalanan menuju dunia teknologi yang penuh peluang.</p>
             </div>
           </article>
 
